@@ -1,8 +1,8 @@
 blueprint:
-  name: Unavailable entity detection & notification
+  name: Unavailable entity detection & notification (Exclude Updates)
   description: Regularly test all entities' status to check for unavailability.
   domain: automation
-  source_url: https://github.com/gmlupatelli/blueprints_repo/blob/master/unavailable_entities_notification/unavailable_entities_notification.yaml
+  source_url: https://github.com/DanGarion/ha-blueprint-tweaks/edit/main/unavailable_entities_notification-exclude-updaetes.yaml
 
   # Blueprint Inputs
   input:
